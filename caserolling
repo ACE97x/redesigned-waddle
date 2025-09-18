@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ACE97x/Games/refs/heads/main/CaseRollingRng"))()
